@@ -113,7 +113,7 @@ http://localhost/gestiondestaches
 
 Nom : Magatte Seye
 Formation : BTS SIO – Option SLAM
-Année scolaire : 2024–2025
+Année scolaire : 2023–2025
 
  
 ## 🌐 Licence 
