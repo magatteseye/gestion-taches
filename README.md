@@ -101,7 +101,7 @@ GESTIONDESTACHES/
 
 
 Cloner le dépôt Git :
-git clone https://github.com/codingWithElias/Employee-Task-Management-System-using-PHP-and-MySQL.git
+git clone https://github.com/Groupe6VNB/gestion-taches.git
 Copier le dossier dans htdocs de XAMPP.
 Importer le fichier SQL dans phpMyAdmin ( task_management_db.sql).
 Modifier les identifiants de connexion dans includes/config.php.
