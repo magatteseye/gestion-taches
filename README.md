@@ -112,14 +112,12 @@ http://localhost/gestiondestaches
 ## 👤 Auteur
 
 Nom : Magatte Seye
-Formation : BTS SIO – Option SLAM
-Année scolaire : 2023–2025
 
- 
 ## 🌐 Licence 
 
 Ce projet est open source sous licence MIT.
 Il peut être utilisé, modifié et redistribué librement tant que la mention de l’auteur est conservée.
+
 
 
 
